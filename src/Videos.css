@@ -1,0 +1,15 @@
+.videos{
+    flex:0.8;
+    margin-left: 20px;
+    
+}
+.video_card{
+    display: flex;
+    flex-wrap: wrap;
+}
+.video_text{
+margin-left: 15px;
+}
+.video_text p{
+    color: gray;
+}
